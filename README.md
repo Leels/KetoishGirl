@@ -6,7 +6,8 @@
 
 ### 2/29/20 Work Schedule
 * 8:00am - 9:00am Organize project structure, create README and prepare for phone meeting with client.
-* 9:00am -10:30am Phone meeting with client to go over her vision for the site.
+* 9:00am - 10:30am Phone meeting with client to go over her vision for the site.
+* 10:30am - 11:00am Read tutorial on linking React frontend to Ruby backend https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend
 
 
 ### Admin Routes
