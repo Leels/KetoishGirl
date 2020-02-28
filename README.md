@@ -1,4 +1,4 @@
-# Rose Coates, Running, Weightloss, Life Coach
+# Rose Coates, Running/Weightloss/Life Coach
 ## By: Lela Smith
 
 ### Description
